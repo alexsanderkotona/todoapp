@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index 'mongodb+srv://alexsander230162:<password>@cluster0.ganfghp.mongodb.net/TarefasDB'"
+    "start": "nodemon index 'mongodb+srv://alexsander230162:alex9979797@cluster0.ganfghp.mongodb.net/TarefasDB'"
   },
   "author": "",
   "license": "ISC",
